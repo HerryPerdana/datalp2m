@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_profil" value="name:id_agenda;datatype:int,name:nama_agenda;datatype:string,name:penyelenggara;datatype:string,name:penanggalan;datatype:date,name:lampiran;datatype:blob" />
+	<infoitem key="UD_agenda" value="name:id_agenda;datatype:int,name:nama_agenda;datatype:string,name:penyelenggara;datatype:string,name:penanggalan;datatype:date,name:lampiran;datatype:blob" />
+</info>

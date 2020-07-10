@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dokumen" value="name:id_dokumen;datatype:int,name:nama_dokumen;datatype:string,name:unit;datatype:string,name:tipe;datatype:string,name:lampiran;datatype:blob" />
+	<infoitem key="UD_berita" value="name:id_berita;datatype:int,name:judul;datatype:string,name:isi;datatype:blob,name:tanggal;datatype:date,name:gambar;datatype:blob" />
+	<infoitem key="UD_agenda" value="name:id_admin;datatype:int,name:nip;datatype:int,name:nama_admin;datatype:string,name:alamat_admin;datatype:string,name:cp;datatype:int,name:jabatan;datatype:string,name:foto;datatype:blob,name:username;datatype:string,name:password;datatype:string" />
+</info>

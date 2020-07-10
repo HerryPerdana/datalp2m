@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_profil" value="name:id_profil;datatype:int,name:profil;datatype:blob,name:visimisi;datatype:blob,name:gambar;datatype:blob" />
+</info>
