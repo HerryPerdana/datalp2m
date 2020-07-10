@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dokumen" value="name:id_dokumen;datatype:int,name:nama_dokumen;datatype:string,name:unit;datatype:string,name:tipe;datatype:string,name:lampiran;datatype:blob" />
+</info>
